@@ -1,2 +1,4 @@
-print ("Hello World")
-# Adding second line for testing
+a = 5
+b = 3
+sum = a + b
+print("Sum:", sum)
